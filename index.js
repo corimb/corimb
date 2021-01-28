@@ -3,7 +3,6 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-const CONFIG = require("../corimb/services-config/config.json")
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -29,7 +28,7 @@ let DATA = {
 
  async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=madrid&appid=${CONFIG.API_KEY}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=madrid&appid=${process.env.OPENWEATHER_API}&units=metric`
     )
       .then(r => r.json())
       .then(r => {
