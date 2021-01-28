@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1471045864/890/penguin.gif?1471045864" width="30"/> Hey! Nice to see you.</h1>
-<br>
+
+
 <p>Welcome to my page! </br> My name is Corina. I'm a Junior Front end developer from <img src="./images/romania.svg" width="13"/> <b>Bucharest, Romania</b>, currently living in <img src="./images/spain.svg" width="13"/> <b>Madrid, Spain</b>. </p>
+
 
 <h3>Things I code with</h3>
 <p>
@@ -15,10 +17,12 @@
 
 <p>📚 I’m currently exploring <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> and working on my profile.</p>
 
+
 <h3>You can reach me at </h3>
 <p><a href="https://github.com/corimb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/corina-mihaela-borcoci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h4>If I don't answer check this out!<img src="./images/crescent-moon.png" alt="crescent moon" width="13"></h4>
-<br/>Currently, the weather is: <b> 12°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>08:27 AM</b> and sets at <b>06:27 PM</b>.</p>
+<p>TimeZone: Thursday, January 28, 7:12 PM GMT+1<p><b>
+<p>Currently, the weather is: 12°C, <i>broken clouds</i><b>Today, the sun rises at 08:27 AM and sets at06:27 PM.</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, January 28, 6:13 PM GMT+1<br />
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, January 28, 7:12 PM GMT+1<br />
