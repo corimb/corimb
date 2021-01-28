@@ -21,7 +21,7 @@ let DATA = {
   }),
 };
 
-let DATA = {
+let DATA_time = {
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
@@ -63,7 +63,7 @@ let DATA = {
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
+    const output = Mustache.render(data.toString(), DATA, DATA_time);
     fs.writeFileSync('README.md', output);
   });
 }
