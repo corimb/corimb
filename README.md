@@ -22,8 +22,8 @@
 <p><a href="https://github.com/corimb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/corina-mihaela-borcoci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h4>If I don't answer check this out!<img src="./images/crescent-moon.png" alt="crescent moon" width="13"></h4>
-<p>TimeZone: Thursday, January 28, 7:27 PM GMT+1<p>
-<p>Currently, the weather is: <b> 12°C, <i>broken clouds</i></b>
-<br>Today, the sun rises at <b>08:27 AM</b> and sets at<b>06:27 PM</b>.</p>
+<p>TimeZone: Thursday, 28 January, 23:43 CET<p>
+<p>Currently, the weather is: <b> 10°C, <i>scattered clouds</i></b>
+<br>Today, the sun rises at <b>08:27</b> and sets at <b>18:27</b>.</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, January 28, 7:27 PM GMT+1<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 28 January, 23:43 CET<br /></p>
