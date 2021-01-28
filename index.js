@@ -11,7 +11,7 @@ const CONFIG = require("../corimb/services-config/config.json")
 */
 let DATA = {
   name: 'Corina',
-  date: new Date().toLocaleDateString('en-GB', {
+  refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -54,7 +54,6 @@ function generateReadMe() {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
-    console.log(output)
   });
 }
 
