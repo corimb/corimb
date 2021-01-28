@@ -1,0 +1,25 @@
+{
+  "name": "corimb",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corimb/corimb.git"
+  },
+  "keywords": [
+    "readme.md"
+  ],
+  "author": "Corina Borcoci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corimb/corimb/issues"
+  },
+  "homepage": "https://github.com/corimb/corimb#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
