@@ -19,9 +19,6 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Madrid',
   }),
-};
-
-let DATA_time = {
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
@@ -32,6 +29,7 @@ let DATA_time = {
     timeZone: 'Europe/Madrid',
   }),
 };
+
 /**
   * A - We open 'main.mustache'
   * B - We ask Mustache to render our file with the data
@@ -61,9 +59,9 @@ let DATA_time = {
   }
 
 function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
+  fs.readFile(MUSTACHE_MAIN_DIR, (err, data,) =>  {
     if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA, DATA_time);
+    const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
   });
 }
