@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Mustache = require('mustache');
 const fs = require('fs');
 const fetch = require('node-fetch');
@@ -18,7 +19,7 @@ let DATA = {
     minute: 'numeric',
     timeZoneName: 'short',
     timeZone: 'Europe/Madrid',
-  })
+  }),
 };
 
 /**
@@ -46,11 +47,11 @@ let DATA = {
           minute: '2-digit',
           timeZone: 'Europe/Madrid',
         });
-      });
+      })
   }
 
 function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data,) =>  {
+  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
@@ -67,7 +68,7 @@ async function action() {
     /**
      * Generate README
      */
-    generateReadMe();
-  }
+     generateReadMe();
+}
   
-  action();
+action();
