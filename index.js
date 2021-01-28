@@ -3,7 +3,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-import CONFIG from "../corimb/services-config/config.json"
+const CONFIG = require("../corimb/services-config/config.json")
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -54,6 +54,7 @@ function generateReadMe() {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
+    console.log(output)
   });
 }
 
