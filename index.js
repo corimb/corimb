@@ -20,6 +20,18 @@ let DATA = {
     timeZone: 'Europe/Madrid',
   }),
 };
+
+let DATA = {
+  date: new Date().toLocaleDateString('en-GB', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'Europe/Madrid',
+  }),
+};
 /**
   * A - We open 'main.mustache'
   * B - We ask Mustache to render our file with the data
