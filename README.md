@@ -22,8 +22,8 @@
 <p><a href="https://github.com/corimb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/corina-mihaela-borcoci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h4>If I don't answer check this out!<img src="./images/crescent-moon.png" alt="crescent moon" width="13"></h4>
-<p>TimeZone: Monday, 16 August, 23:18 CEST<p>
-<p>Currently, the weather is: <b> 28°C, <i>clear sky</i></b>
-<br>Today, the sun rises at <b>07:26</b> and sets at <b>21:11</b>.</p>
+<p>TimeZone: Tuesday, 17 August, 03:01 CEST<p>
+<p>Currently, the weather is: <b> 21°C, <i>clear sky</i></b>
+<br>Today, the sun rises at <b>07:27</b> and sets at <b>21:10</b>.</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 16 August, 23:18 CEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 17 August, 03:01 CEST<br /></p>
