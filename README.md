@@ -22,8 +22,8 @@
 <p><a href="https://github.com/corimb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/corina-mihaela-borcoci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h4>If I don't answer check this out!<img src="./images/crescent-moon.png" alt="crescent moon" width="13"></h4>
-<p>TimeZone: Wednesday, 6 April, 23:19 CEST<p>
-<p>Currently, the weather is: <b> 12°C, <i>clear sky</i></b>
-<br>Today, the sun rises at <b>07:50</b> and sets at <b>20:43</b>.</p>
+<p>TimeZone: Thursday, 7 April, 03:40 CEST<p>
+<p>Currently, the weather is: <b> 9°C, <i>clear sky</i></b>
+<br>Today, the sun rises at <b>07:48</b> and sets at <b>20:44</b>.</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 6 April, 23:19 CEST<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 7 April, 03:40 CEST<br /></p>
