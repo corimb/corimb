@@ -22,8 +22,8 @@
 <p><a href="https://github.com/corimb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/corina-mihaela-borcoci" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <h4>If I don't answer check this out!<img src="./images/crescent-moon.png" alt="crescent moon" width="13"></h4>
-<p>TimeZone: Monday, 23 January, 16:20 CET<p>
-<p>Currently, the weather is: <b> 8°C, <i>few clouds</i></b>
+<p>TimeZone: Monday, 23 January, 19:21 CET<p>
+<p>Currently, the weather is: <b> 5°C, <i>scattered clouds</i></b>
 <br>Today, the sun rises at <b>08:31</b> and sets at <b>18:20</b>.</p>
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 23 January, 16:20 CET<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 23 January, 19:21 CET<br /></p>
